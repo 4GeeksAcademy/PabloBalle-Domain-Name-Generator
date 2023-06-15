@@ -38,4 +38,4 @@ function generateDomainNames(pronoun, adj, noun, prefix) {
 
 // Generar las combinaciones de nombres de dominio
 var domainNames = generateDomainNames(pronoun, adj, noun, prefix);
-consol.log();
+console.log(domainNames);
